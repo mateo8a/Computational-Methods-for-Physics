@@ -2,7 +2,7 @@
 
 This repo consists of numerical simulations of a variety of physical systems. I've used algorithms such as Runge-Kutta 4, the Fast Fourier Transform, and Lax-Wendroff for each project. For easy view, open the .wl file. The Mathematica notebook in each folder is the file with extension .nb. 
 
-Each folder consists of my solutions to the problems given in the first edition book [*Computational Methods for Physics*](http://www.cambridge.org/us/academic/subjects/physics/computational-science-and-modelling/computational-methods-physics?format=HB) by Joel Franklin.
+Each folder consists of my solutions to the problems given in the first edition of the book [*Computational Methods for Physics*](http://www.cambridge.org/us/academic/subjects/physics/computational-science-and-modelling/computational-methods-physics?format=HB) by Joel Franklin.
 
 ##How to open the Mathematica (.nb) files
 
